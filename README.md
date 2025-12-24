@@ -1,4 +1,4 @@
-# Analítica de Mantenimiento Industrial 🧠🔧
+# Analítica de Mantenimiento Industrial
 
 Este repositorio contiene ejercicios y desarrollos de analítica aplicada a
 mantenimiento industrial, gestión de repuestos e inventarios, utilizando:
@@ -21,7 +21,7 @@ El propósito es construir ejemplos prácticos enfocados en:
 
 ---
 
-## 🚀 Objetivo del proyecto
+## Objetivo del proyecto
 
 Desarrollar una base técnica para:
 
